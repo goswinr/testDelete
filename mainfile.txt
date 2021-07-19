@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 only BBBBBBBBBBBBBB
-realy just Bs
-=======
+
 only AAAAAAAAAAAAAAAAA
 
 more AA
 once more A
-more A 3
->>>>>>> A
+
